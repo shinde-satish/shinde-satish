@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shinde-satish
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me shindesatish2520@gmail.com
